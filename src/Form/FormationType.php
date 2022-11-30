@@ -34,7 +34,6 @@ class FormationType extends AbstractType
         ;
     }
     
-    
     /**
      * @param OptionsResolver $resolver
      */
