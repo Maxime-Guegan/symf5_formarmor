@@ -33,7 +33,7 @@ class FormationType extends AbstractType
             ->add('Valider', SubmitType::class)
         ;
     }
-    //test 
+    
     
     /**
      * @param OptionsResolver $resolver
