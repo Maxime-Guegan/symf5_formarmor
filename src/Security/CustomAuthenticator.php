@@ -101,6 +101,6 @@ class CustomAuthenticator extends AbstractFormLoginAuthenticator implements Pass
 
     protected function getLoginUrl()
     {
-        return $this->urlGenerator->generate(self::LOGIN_ROUTE);
+        return $this->urlGenerator->generate(self::LOGIN_ROUTE);    
     }
 }
